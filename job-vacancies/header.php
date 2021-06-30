@@ -14,7 +14,6 @@
         <ul>
             <li><a href="home.php">Find Jobs</a> </li>
             <li><a href="login-signup.php">Post Jobs</a> </li>
-            <li><a href="about.php">About Us</a> </li>
         </ul>
     </nav>
 </header>

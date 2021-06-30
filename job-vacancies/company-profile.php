@@ -97,7 +97,7 @@ echo "
             echo "
                     </ul>
                 </div>
-    </div>
-</div>
+                </div>
+                    </div>
 "
 ?>
